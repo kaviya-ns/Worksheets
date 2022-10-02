@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<math.h>
 int main()
- {
+ {//sampleedit
     float n,f,voltage_gain,x,y,z;
     n=4;
     f=120;
